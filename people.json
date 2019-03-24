@@ -1,0 +1,18 @@
+{
+	"people": [
+		{
+			"name":"Bhooms",
+          "age": 21
+        },
+        {
+          "name":"Sindhu",
+          "age":20
+        },
+        {
+          "name":"Vd",
+          "age":23
+        }
+      
+		
+	]
+}
